@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lala</string>
+
+    <!-- Label -->
+    <!-- Label User Info-->
+    <string name="huaweiId">Id</string>
+    <string name="huaweiName">Name</string>
+    <string name="huaweiTelpNo">Nickname</string>
+    <string name="huaweiEmail">Email</string>
+
+</resources>
